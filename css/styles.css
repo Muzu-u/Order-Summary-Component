@@ -2,6 +2,7 @@
 body{
     font-family: 'Red Hat Display';
     font-size: 16px;
+    background-color: hsl(225, 100%, 94%)
 }
 
 @media (max-width: 375px) {
@@ -43,6 +44,7 @@ h1{
 
 p{
     color: lightslategray;
+    display: inline-block;
 }
 
 h3{
@@ -57,18 +59,30 @@ h3{
     border-radius: 15px;
     background: hsl(225, 100%, 98%);
     margin: 10px;
+    text-align: left;
+    padding: 0px 20px 0px 20px;
 }
 
 .music-icon{
-    top: 15px;
+    top: 30px;
+    right: 7px;
     position: relative;
     border-radius: 100%;
     background: hsl(225, 100%, 94%);
 }
 
+.price{
+    position: relative;
+    left: 50px;
+    bottom: 10px;
+}
+
 .change-plan{
     color: hsl(245, 84%, 65%);
     text-decoration: none;
+    position: absolute;
+    right: 40px;
+    top: 415px;
 }
 
 .change-plan:hover{
@@ -80,9 +94,9 @@ h3{
     border-radius: 10px;
     display: block;
     width: auto;
-    height: 30px;
-    margin: 10px;
-    padding-top: 5px;
+    height: 35px;
+    margin: 2rem;
+    padding-top: 10px;
     text-decoration: none;
     color: white;
 }
