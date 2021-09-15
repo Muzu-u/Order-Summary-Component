@@ -31,7 +31,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Order Summary Card](https://your-live-site-url.com)
+- Live Site URL: [Order Summary Card](https://order-summary-component-newbieproject.netlify.app/)
 
 ### Built with
 
