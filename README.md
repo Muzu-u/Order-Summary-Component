@@ -61,5 +61,4 @@ I've got to continue learning about CSS Grid until I'm confident using it, so I 
 ## Author
 
 - Website - [Iván Pita](https://muzu-u.github.io/cv/)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
 - Facebook - [Iván Pita](https://www.facebook.com/ivan.pita.unu/)
